@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AuthP1</string>
+    <string name="select_category">Выберите категорию</string>
+
+    <string-array name="roles_array">
+            <item>admin</item>
+            <item>employee</item>
+            <item>user</item>
+        </string-array>
+</resources>
