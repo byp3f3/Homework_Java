@@ -1,0 +1,15 @@
+<resources>
+        <string name="app_name">Планировщик</string>
+        <string name="title_hint">Название</string>
+        <string name="description_hint">Описание</string>
+        <string name="enable_notification">Уведомление</string>
+        <string name="save">Сохранить</string>
+        <string name="low_priority">Низкий</string>
+        <string name="medium_priority">Средний</string>
+        <string name="high_priority">Высокий</string>
+        <string name="priority">Приоритет</string>
+        <string name="date">Дата</string>
+        <string name="time">Время</string>
+        <string name="sort_by_date">Сортировать по дате</string>
+        <string name="sort_by_priority">Сортировать по важности</string>
+</resources>
